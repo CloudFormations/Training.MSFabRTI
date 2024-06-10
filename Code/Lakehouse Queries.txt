@@ -1,0 +1,14 @@
+SELECT
+    s.EventEnqueuedUtcTime,
+    prd.Name AS ProductName,
+    SUM(CAST(s.UnitPrice AS float)) AS UnitPrice,
+    SUM(CAST(s.LineTotal AS float)) AS LineTotal,
+    SUM(CAST(s.OrderQty AS float)) AS OrderQty,
+    COUNT(*) AS RecordCount
+FROM
+    AWSales s
+    INNER JOIN [products] AS prd
+        ON s.[ProductID] = prd.[ProductID]
+GROUP BY
+    s.EventEnqueuedUtcTime,
+    prd.Name

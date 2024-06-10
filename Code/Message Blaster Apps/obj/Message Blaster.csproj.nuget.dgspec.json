@@ -1,0 +1,104 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\PaulAndrew\\GitHub\\Training.MSFabRTI\\Code\\Message Blaster Apps\\Message Blaster.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\PaulAndrew\\GitHub\\Training.MSFabRTI\\Code\\Message Blaster Apps\\Message Blaster.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PaulAndrew\\GitHub\\Training.MSFabRTI\\Code\\Message Blaster Apps\\Message Blaster.csproj",
+        "projectName": "Message Blaster Apps",
+        "projectPath": "C:\\Users\\PaulAndrew\\GitHub\\Training.MSFabRTI\\Code\\Message Blaster Apps\\Message Blaster.csproj",
+        "packagesPath": "C:\\Users\\PaulAndrew\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PaulAndrew\\GitHub\\Training.MSFabRTI\\Code\\Message Blaster Apps\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PaulAndrew\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\PaulAndrew\\GitHub\\Training.MSFabRTI\\Code\\ThroughPutController\\ThroughPutController.csproj": {
+                "projectPath": "C:\\Users\\PaulAndrew\\GitHub\\Training.MSFabRTI\\Code\\ThroughPutController\\ThroughPutController.csproj"
+              }
+            }
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Microsoft.Azure.EventHubs": {
+              "target": "Package",
+              "version": "[4.3.2, )"
+            },
+            "Microsoft.Azure.EventHubs.Processor": {
+              "target": "Package",
+              "version": "[4.3.2, )"
+            },
+            "Microsoft.Azure.ServiceBus": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.ComponentModel.EventBasedAsync": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\PaulAndrew\\GitHub\\Training.MSFabRTI\\Code\\ThroughPutController\\ThroughPutController.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PaulAndrew\\GitHub\\Training.MSFabRTI\\Code\\ThroughPutController\\ThroughPutController.csproj",
+        "projectName": "ThroughPutController",
+        "projectPath": "C:\\Users\\PaulAndrew\\GitHub\\Training.MSFabRTI\\Code\\ThroughPutController\\ThroughPutController.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}

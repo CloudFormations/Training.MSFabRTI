@@ -1,0 +1,39 @@
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\ThroughPutController\bin\Debug\ThroughPutController.exe.config
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\ThroughPutController\bin\Debug\ThroughPutController.exe
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\ThroughPutController\bin\Debug\ThroughPutController.pdb
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\ThroughPutController\obj\Debug\ThroughPutController.SliderControl.resources
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\ThroughPutController\obj\Debug\ThroughPutController.Properties.Resources.resources
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\ThroughPutController\obj\Debug\ThroughPutController.csproj.GenerateResource.cache
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\ThroughPutController\obj\Debug\ThroughPutController.csproj.CoreCompileInputs.cache
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\ThroughPutController\obj\Debug\ThroughPutController.exe
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\ThroughPutController\obj\Debug\ThroughPutController.pdb
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\ThroughPutController\obj\Debug\ThroughPutController.csprojAssemblyReference.cache
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\ThroughPutController\bin\Debug\ThroughPutController.exe.config
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\ThroughPutController\bin\Debug\ThroughPutController.exe
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\ThroughPutController\bin\Debug\ThroughPutController.pdb
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\ThroughPutController\obj\Debug\ThroughPutController.csprojAssemblyReference.cache
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\ThroughPutController\obj\Debug\ThroughPutController.SliderControl.resources
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\ThroughPutController\obj\Debug\ThroughPutController.Properties.Resources.resources
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\ThroughPutController\obj\Debug\ThroughPutController.csproj.GenerateResource.cache
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\ThroughPutController\obj\Debug\ThroughPutController.exe
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\ThroughPutController\obj\Debug\ThroughPutController.pdb
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\ThroughPutController\bin\Debug\ThroughPutController.exe.config
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\ThroughPutController\bin\Debug\ThroughPutController.exe
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\ThroughPutController\bin\Debug\ThroughPutController.pdb
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\ThroughPutController\obj\Debug\ThroughPutController.csproj.AssemblyReference.cache
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\ThroughPutController\obj\Debug\ThroughPutController.SliderControl.resources
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\ThroughPutController\obj\Debug\ThroughPutController.Properties.Resources.resources
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\ThroughPutController\obj\Debug\ThroughPutController.csproj.GenerateResource.cache
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\ThroughPutController\obj\Debug\ThroughPutController.csproj.CoreCompileInputs.cache
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\ThroughPutController\obj\Debug\ThroughPutController.exe
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\ThroughPutController\obj\Debug\ThroughPutController.pdb
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\ThroughPutController\bin\Debug\ThroughPutController.exe.config
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\ThroughPutController\bin\Debug\ThroughPutController.exe
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\ThroughPutController\bin\Debug\ThroughPutController.pdb
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\ThroughPutController\obj\Debug\ThroughPutController.csproj.AssemblyReference.cache
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\ThroughPutController\obj\Debug\ThroughPutController.SliderControl.resources
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\ThroughPutController\obj\Debug\ThroughPutController.Properties.Resources.resources
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\ThroughPutController\obj\Debug\ThroughPutController.csproj.GenerateResource.cache
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\ThroughPutController\obj\Debug\ThroughPutController.csproj.CoreCompileInputs.cache
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\ThroughPutController\obj\Debug\ThroughPutController.exe
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\ThroughPutController\obj\Debug\ThroughPutController.pdb

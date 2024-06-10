@@ -1,0 +1,455 @@
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\bin\Debug\Message Blaster Apps.exe.config
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\bin\Debug\Message Blaster Apps.exe
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\bin\Debug\Message Blaster Apps.pdb
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.EventHubs.dll
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.EventHubs.Processor.dll
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.Http.dll
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.WebSockets.dll
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message Blaster.csprojAssemblyReference.cache
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message Blaster Apps.exe.config
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message Blaster.csproj.CoreCompileInputs.cache
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message Blaster.csproj.CopyComplete
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message Blaster Apps.exe
+C:\Users\pja\GitHub\AdatisBIinAzureWorkshop\Demos\D1 - Realtime Data Streaming\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message Blaster Apps.pdb
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Message Blaster Apps.exe.config
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Message Blaster Apps.exe
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Message Blaster Apps.pdb
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.EventHubs.dll
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.EventHubs.Processor.dll
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.Http.dll
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.WebSockets.dll
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\ThroughPutController.exe
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\ThroughPutController.pdb
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\ThroughPutController.exe.config
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message Blaster.csprojAssemblyReference.cache
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message Blaster Apps.exe.config
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message Blaster.csproj.CoreCompileInputs.cache
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message Blaster.csproj.CopyComplete
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message Blaster Apps.exe
+C:\Users\pja\Dropbox\Work\Talks\Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message Blaster Apps.pdb
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Message Blaster Apps.exe.config
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Message Blaster Apps.exe
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Message Blaster Apps.pdb
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.EventHubs.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.EventHubs.Processor.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.ServiceBus.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.Storage.Blob.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.Storage.Blob.pdb
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.Storage.Common.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.Storage.Common.pdb
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\netstandard.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.AppContext.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Collections.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Collections.Specialized.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.ComponentModel.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Console.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Data.Common.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Globalization.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.Compression.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.FileSystem.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.Pipes.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Linq.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Linq.Expressions.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Linq.Parallel.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Linq.Queryable.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.Http.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.NameResolution.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.Ping.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.Primitives.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.Requests.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.Security.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.Sockets.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.WebSockets.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.ObjectModel.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Reflection.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Resources.Reader.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Resources.Writer.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.Handles.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.Claims.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.Principal.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.SecureString.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Text.Encoding.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Threading.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Threading.Tasks.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Threading.Thread.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Threading.Timer.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.ValueTuple.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Xml.XDocument.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Xml.XPath.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\ThroughPutController.exe
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\ThroughPutController.pdb
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\ThroughPutController.exe.config
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message Blaster.csprojAssemblyReference.cache
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message Blaster Apps.exe.config
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message Blaster.csproj.CopyComplete
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message Blaster Apps.exe
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message Blaster Apps.pdb
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Message Blaster Apps.exe.config
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Message Blaster Apps.exe
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Message Blaster Apps.pdb
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.Amqp.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.EventHubs.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.EventHubs.Processor.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.ServiceBus.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.Services.AppAuthentication.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.Storage.Blob.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.Storage.Common.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Reflection.TypeExtensions.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\netstandard.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.AppContext.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Collections.Concurrent.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Collections.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Collections.NonGeneric.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Collections.Specialized.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.ComponentModel.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.ComponentModel.Primitives.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Console.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Data.Common.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.Contracts.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.Debug.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.Process.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.Tools.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.Tracing.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Drawing.Primitives.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Dynamic.Runtime.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Globalization.Calendars.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Globalization.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Globalization.Extensions.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.Compression.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.FileSystem.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.IsolatedStorage.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.Pipes.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Linq.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Linq.Expressions.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Linq.Parallel.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Linq.Queryable.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.Http.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.NameResolution.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.NetworkInformation.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.Ping.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.Primitives.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.Requests.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.Security.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.Sockets.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.WebSockets.Client.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.WebSockets.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.ObjectModel.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Reflection.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Reflection.Extensions.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Reflection.Primitives.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Resources.Reader.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Resources.ResourceManager.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Resources.Writer.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.Extensions.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.Handles.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.InteropServices.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.Numerics.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.Claims.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.Principal.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.SecureString.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Text.Encoding.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Text.RegularExpressions.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Threading.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Threading.Overlapped.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Threading.Tasks.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Threading.Thread.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Threading.ThreadPool.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Threading.Timer.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.ValueTuple.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Xml.ReaderWriter.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Xml.XDocument.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Xml.XmlDocument.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Xml.XmlSerializer.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Xml.XPath.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\ThroughPutController.exe
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\ThroughPutController.pdb
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\bin\Debug\ThroughPutController.exe.config
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message Blaster.csproj.AssemblyReference.cache
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message Blaster.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message Blaster Apps.exe.config
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message Blaster.csproj.CoreCompileInputs.cache
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message Blaster Apps.exe
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message Blaster Apps.pdb
+D:\OneDrive - mrpaulandrew\Talks\Regular - Azure Stream Analytics - Beyond IoT Realtime Data\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message .3353B4BD.Up2Date
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\Message Blaster Apps.exe.config
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\Message Blaster Apps.exe
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\Message Blaster Apps.pdb
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.EventHubs.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.EventHubs.Processor.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.ServiceBus.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.Storage.Blob.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Azure.Storage.Common.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\netstandard.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.AppContext.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Collections.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Collections.Specialized.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.ComponentModel.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Console.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Data.Common.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Globalization.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.Compression.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.FileSystem.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.Pipes.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Linq.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Linq.Expressions.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Linq.Parallel.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Linq.Queryable.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.Http.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.NameResolution.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.Ping.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.Primitives.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.Requests.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.Security.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.Sockets.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Net.WebSockets.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.ObjectModel.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Reflection.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Resources.Reader.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Resources.Writer.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.Handles.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.Claims.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.Principal.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Security.SecureString.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Text.Encoding.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Threading.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Threading.Tasks.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Threading.Thread.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Threading.Timer.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.ValueTuple.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Xml.XDocument.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Xml.XPath.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\ThroughPutController.exe
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\ThroughPutController.pdb
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\bin\Debug\ThroughPutController.exe.config
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message Blaster.csproj.AssemblyReference.cache
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message Blaster.csproj.SuggestedBindingRedirects.cache
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message Blaster Apps.exe.config
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message Blaster.csproj.CoreCompileInputs.cache
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message .3353B4BD.Up2Date
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message Blaster Apps.exe
+C:\Users\PaulAndrew\OneDrive - mrpaulandrew\Talks\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\Message Blaster Apps\Message Blaster Apps\obj\Debug\Message Blaster Apps.pdb

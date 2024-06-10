@@ -1,0 +1,9 @@
+AWSales
+| lookup Products on ProductID
+| summarize SumUnitPrice = sum(todecimal(UnitPrice)) by Name, bin(ingestion_time(), 5m)
+
+AWSales
+| summarize IngestionCount = count() by bin(ingestion_time(), 5m)
+
+AWSales
+| summarize SumUnitPrice = sum(todecimal(UnitPrice)) by bin(ingestion_time(), 5m)
