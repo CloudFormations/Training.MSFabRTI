@@ -1,6 +1,6 @@
 # Microsoft Fabric Real-time Intelligence
 
-![Header Image](Header%20Image.png)
+![Header Image](./Images/Course%20Header.PNG)
 
 ## Course Overview
 
