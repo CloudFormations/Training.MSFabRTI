@@ -1,4 +1,5 @@
 # Microsoft Fabric Real-time Intelligence
+## Exploring and implementing all the Experiences in the Real-time Intelligence Hub.
 
 ![Header Image](./Images/Course%20Header.PNG)
 
