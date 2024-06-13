@@ -2,9 +2,9 @@
 
 [<< Back to Home Page](/README.md)
 
-[<< Back to Course Overview](/5.%20An%20Engineers%20Guide%20To%20Realtime%20Data%20Handling%20And%20Analytics/Overview.md)
+[<< Back to Read Me](/README.md)
 
-![Azure Architecture](/5.%20An%20Engineers%20Guide%20To%20Realtime%20Data%20Handling%20And%20Analytics/Images/Azure%20Demo%20Architecture.png)
+![Azure Architecture](/Images/Azure%20Demo%20Architecture.png)
 
 Use the following video guide to build the demo architecture. Also available as a YouTube playlist here:
 
