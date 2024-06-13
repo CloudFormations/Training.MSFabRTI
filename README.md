@@ -17,3 +17,4 @@ See course overview via the Cloud Formations online training catalogue here:
 * [Connection String Collector Form](https://forms.office.com/Pages/ResponsePage.aspx?id=Doli1fyCx0KAM7YiAN89ljFhz4hdMs5BlMp-dUO9N-5UOUNRV1E1QUdDRzMyMzM5RExFUllJR0JHNCQlQCN0PWcu)
 * [Azure Demo Video Guide](./Videos/Azure%20Architecture%20Guide.md)
 * [Fabric Demo Video Guide](./Videos/Fabric%20Architecture%20Guide.md)
+* [Fabric KQL Cost Estimator](https://dataexplorer.azure.com/kustofabriccostestimator.html)
