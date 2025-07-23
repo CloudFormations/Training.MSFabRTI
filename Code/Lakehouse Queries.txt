@@ -9,6 +9,10 @@ FROM
     AWSales s
     INNER JOIN [products] AS prd
         ON s.[ProductID] = prd.[ProductID]
+WHERE
+     s.EventEnqueuedUtcTime >= GETDATE()-1
 GROUP BY
     s.EventEnqueuedUtcTime,
     prd.Name
+ORDER BY
+    OrderQty DESC

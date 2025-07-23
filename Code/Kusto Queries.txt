@@ -1,6 +1,46 @@
+//Sum Sales Revenue
+kqldbtable02
+| summarize SumUnitPrice = sum(todecimal(UnitPrice)) by bin(ingestion_time(), 1m)
+| where $IngestionTime >= startofday(now())
+
+
+//Best Products By Revenue
+kqldbtable02
+| lookup products on ProductID
+| summarize SumUnitPrice = sum(todecimal(UnitPrice)) by Name, EventEnqueuedUtcTime
+| where EventEnqueuedUtcTime >= startofday(now())
+| sort by SumUnitPrice desc
+| limit 20
+
+
+//Count of Sales Transactions
+kqldbtable02
+| summarize CountProducts = count() by bin(ingestion_time(), 1m)
+| where $IngestionTime >= startofday(now())
+
+
+//Popular Product By Order Quantity
+kqldbtable02
+| lookup products on ProductID
+| summarize SumQty = sum(toint(OrderQty)) by Name, Color, EventEnqueuedUtcTime
+| where EventEnqueuedUtcTime >= startofday(now())
+| sort by SumQty desc
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+
 AWSales
 | lookup Products on ProductID
 | summarize SumUnitPrice = sum(todecimal(UnitPrice)) by Name, bin(ingestion_time(), 5m)
+| sort by SumUnitPrice desc
+
+
+AWSales
+| lookup Products on ProductID
+| summarize SumUnitPrice = sum(todecimal(UnitPrice)) by Name 
+| sort by SumUnitPrice desc
 
 AWSales
 | summarize IngestionCount = count() by bin(ingestion_time(), 5m)
